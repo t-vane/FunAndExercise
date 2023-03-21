@@ -3,7 +3,7 @@ import pylab
 
 
 #================================
-# Rabbit and fox ppulation growth
+# Rabbit and fox population growth
 #================================
 
 
