@@ -110,7 +110,7 @@ def perceptron_single_step_update(
         return current_theta, current_theta_0
 
 
-# Perceptron algorithm (Tfull)
+# Perceptron algorithm (full)
 def perceptron(feature_matrix, labels, T):
     """
     Runs the full perceptron algorithm on a given set of data. Runs T
