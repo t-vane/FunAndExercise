@@ -20,10 +20,5 @@ This repository holds scripts for various projects I conducted for fun and to im
 ### Sentiment analysis
 `./sentiment_analysis` contains scripts for sentiment analysis using support vector machines (Pegasos and Perceptron algorithm).
 
-
-
-
-
-
-
-
+### MNIST digit recognition
+`./mnist_digit_recognition` contains script for digit recognition of the [MNIST data set](http://yann.lecun.com/exdb/mnist/) using support vector machines, linear regression, or (convolutional) neural networks.
